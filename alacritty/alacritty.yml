@@ -1,0 +1,43 @@
+font:
+  size: 9
+  normal:
+    family: JetBrainsMono Nerd Font
+    style: Regular
+  bold:
+    family: JetBrainsMono Nerd Font
+  italic:
+    family: JetBrainsMono Nerd Font
+
+colors:
+  primary:
+    background: '#282C34'
+    foreground: '#BBC2CF'
+  normal:
+    black:   '#2A2E38'
+    red:     '#FF6C6B'
+    green:   '#98BE65'
+    yellow:  '#ECBE7B'
+    blue:    '#51AFEF'
+    magenta: '#C678DD'
+    cyan:    '#46D9FF'
+    white:   '#BBC2CF'
+  bright:
+    black:   '#3F444A'
+    red:     '#FF6655'
+    green:   '#98BE66'
+    yellow:  '#ECBE7B'
+    blue:    '#51AFEF'
+    magenta: '#C678DD'
+    cyan:    '#46D9FF'
+    white:   '#BBC2CF'
+
+window:
+  padding:
+    x: 2
+    y: 0
+  opacity: 0.9
+
+cursor:
+  style:
+    shape: Block
+    blinking: Off
